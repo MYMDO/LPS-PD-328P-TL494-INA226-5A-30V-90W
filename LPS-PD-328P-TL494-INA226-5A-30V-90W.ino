@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <GyverOLED.h>
 #include <GyverINA.h>
 
